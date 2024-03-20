@@ -14,3 +14,4 @@ printf("the entered no is odd %d",n1);
 }
 return0;
 }
+
